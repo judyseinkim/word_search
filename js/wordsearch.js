@@ -25,24 +25,12 @@
 	
     // Default settings
     var default_settings = {
-      'directions': ['W', 'N', 'WN', 'EN'],
-      'gridSize': 18,
+      'directions': ['W', 'N'],
+      'gridSize': 14,
       'words': [
 	     'throne',
 		'palace',
 		'tradition',
-		'family',
-		'descent',
-		'royal',
-		'kingdom',
-		'prince',
-		'law',
-		'earl',
-		'government',
-		'charter',
-		'sovereign',
-		'orb',
-		'commons'
 	  ],
       'debug': false,
 	  'condition' : 0,
